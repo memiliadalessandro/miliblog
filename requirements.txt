@@ -2,7 +2,6 @@ asn1crypto
 automat
 bcrypt
 blinker
-brlapi
 bs4
 chardet
 colorama
